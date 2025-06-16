@@ -137,8 +137,8 @@ A list of things I've built — not to impress, but to express. Real tools. Real
 ### You can find me on:
 - **GitHub:** [fazalkadivar21](https://github.com/fazalkadivar21)
 - **LinkedIn:** [Mohamadfazalmadani(Fazal) Kadivar](https://www.linkedin.com/in/fazalkadivar21)
-- **X (Twitter):** [@fazalkadivar](https://x.com/fazalkadivar21)
-- **Buy Me a Coffee:** [Support Here](https://www.buymeacoffee.com/fazalkadivar)`,},
+- **X (Twitter):** [@fazalkadivar21](https://x.com/fazalkadivar21)
+- **Buy Me a Coffee:** [Support Here](https://www.buymeacoffee.com/fazalkadivar21)`,},
         ],
       };
 
